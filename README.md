@@ -1,0 +1,2 @@
+# Mobalytics-Gaming-Market-Research
+This project is an externship focused on analyzing gaming genres and providing insights to Mobalytics as they explore new market expansion opportunities. Participants will conduct in-depth research on gaming genres, player psychology, and game revenue models. They will also analyze brand positioning and communication sentiment, perform competitor research by engaging with specific games, and present their findings to Mobalytics.
